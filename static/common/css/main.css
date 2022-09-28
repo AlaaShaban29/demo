@@ -1,0 +1,9 @@
+.djn-drag-handler > *
+{
+    font-size: 1.5rem !important;
+    letter-spacing:0.15rem
+}
+.inline-deletelink {
+    font-size: 1.2rem !important;
+    letter-spacing:0.15rem
+}
